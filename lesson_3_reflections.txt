@@ -1,2 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local? Using a remote repository has two significant benefits. First it provides a remote backup of your work. Second, it allows for collaboration from multiple contributors.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? Pulling changes manually ensures that you do not overright or merge code into your work environment until you are sure that is what you want to do.
