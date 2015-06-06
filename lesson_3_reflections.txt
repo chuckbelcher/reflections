@@ -1,2 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local? Using a remote repository has two significant benefits. First it provides a remote backup of your work. Second, it allows for collaboration from multiple contributors.
 
+What is the benefit of having a copy of the last known state of the remote stored locally? If you need to work offline for any period of time having a local copy of the latest commits allows you to merge changes with a known point in time.
