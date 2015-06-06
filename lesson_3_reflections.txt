@@ -4,3 +4,4 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? Pulling changes manually ensures that you do not overright or merge code into your work environment until you are sure that is what you want to do.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? If you are working independently on a project making changes directly to master is ok. I would recommend the branching option whenever you are collaborating.
